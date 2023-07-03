@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = kaishu0520@gmail.com
+	name = exec zsh
